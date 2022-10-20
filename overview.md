@@ -4,4 +4,4 @@
 # Fazer parametrizações
 - Teremos que deixar o dash parametrizado e automático. 
 - A parametrização tem que ser feita, no mínimo, no sentido de data e nome do evento.
-- 
+- A comparação de crescimento é em relação ao ano passado.
